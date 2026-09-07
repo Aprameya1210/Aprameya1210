@@ -14,7 +14,6 @@
 
 ## 📊 Player Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aprameya1210&show_icons=true&bg_color=1E1E1E&title_color=39B54A&text_color=FFFFFF&icon_color=39B54A&border_color=39B54A" alt="Kumar Aprameya's Player Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aprameya1210&background=1E1E1E&title=39B54A&text=FFFFFF&icon=39B54A&border=39B54A&dates=FFFFFF" alt="Kumar Aprameya's Login Streak" />
 </p>
 
