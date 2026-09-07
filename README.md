@@ -1,25 +1,27 @@
-# Hi there 👋, I'm Kumar Aprameya!
+<h1 align="center">⛏️ Welcome to my Spawn Point! 👋 I'm Kumar Aprameya</h1>
 
-### 👨‍💻 Final Year Student at VIT Vellore | Aspiring Software Engineer
+<h3 align="center">🗡️ Level 22 (Final Year Student) at VIT Vellore | Aspiring Master Crafter (Software Engineer)</h3>
 
-I'm an enthusiastic and driven software developer from Noida, always eager to explore new technologies and solve real-world problems through code.
-
-## 🚀 About Me
-- 🎓 **Education:** Final year student at VIT Vellore.
-- 💡 **Interests:** Machine Learning, Backend Development, Automation, and DevOps.
-- 🛠 **Languages & Tools:** Python, Java, TypeScript, SQL, Jupyter.
-- 📫 **Contact:** [kumaraprameya1210@gmail.com](mailto:kumaraprameya1210@gmail.com)
-
-## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aprameya1210&show_icons=true&theme=radium" alt="Kumar Aprameya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aprameya1210&theme=radium" alt="Kumar Aprameya's Streak" />
+  I'm an enthusiastic developer from Noida, always eager to explore new biomes, mine for new technologies, and craft real-world solutions through code.
 </p>
 
-## ⚡ Recent Highlights
-- Developed **FlareOps**: An AI-powered SRE assistant.
-- Built **llm-web-automation**: An LLM-powered browser automation framework.
-- Created **SecureShare**: A secure API for encrypted document upload.
+## 🌲 My Inventory
+- 🎓 **XP Farm:** Final year student at VIT Vellore.
+- 💡 **Quest Log:** Machine Learning, Backend Development, Automation, and DevOps.
+- 🛠 **Crafting Table (Languages & Tools):** Python, Java, TypeScript, SQL, Jupyter.
+- 📫 **Server IP (Contact):** [kumaraprameya1210@gmail.com](mailto:kumaraprameya1210@gmail.com)
+
+## 📊 Player Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aprameya1210&show_icons=true&bg_color=1E1E1E&title_color=39B54A&text_color=FFFFFF&icon_color=39B54A&border_color=39B54A" alt="Kumar Aprameya's Player Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aprameya1210&background=1E1E1E&title=39B54A&text=FFFFFF&icon=39B54A&border=39B54A&dates=FFFFFF" alt="Kumar Aprameya's Login Streak" />
+</p>
+
+## ⚡ Recent Builds
+- 🏰 **FlareOps**: An AI-powered SRE assistant.
+- 🚂 **llm-web-automation**: An LLM-powered browser automation framework (Advanced Redstone contraption).
+- 🛡️ **SecureShare**: A secure API for encrypted document upload (Ender Chest for files).
 
 ---
-⭐️ *Thanks for visiting my profile! Let's connect and build something awesome.*
+💎 *Thanks for visiting my base! Don't forget to drop a diamond (⭐️) and let's build something awesome together.*
